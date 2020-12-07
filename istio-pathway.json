@@ -1,0 +1,26 @@
+{
+  "title": "MOSN Tutorial",
+  "description": "Learn MOSN with Istio using Interactive Browser-Based Scenarios",
+  "courses": [
+    {
+      "course_id": "mosn-with-istio",
+      "title": "MOSN with Istio",
+      "description": "Run the Bookinfo sample using MOSN as data plane with Istio."
+    },
+    {
+      "course_id": "istio-mosn-adapt-dubbo",
+      "title": "Istio with MOSN adapt dubbo",
+      "description": "Dubbo demo run with MOSN in Istio env."
+    },
+    {
+      "course_id": "mosn-with-skywalking",
+      "title": "MOSN with SkyWalking",
+      "description": "Use SkyWalking as a trace implementation."
+    },
+    {
+      "course_id": "mosn-with-circuitbreaker",
+      "title": "MOSN with Istio Circuit Breaker",
+      "description": "Running Circuit Breaker using MOSN with Istio."
+    }
+  ]
+}
